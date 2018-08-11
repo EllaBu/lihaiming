@@ -2,7 +2,7 @@ git add ./
 
 echo "添加成功"
 
-git commit -m "" ./
+git commit -m "哈哈" ./
 
 echo "提交成功"
 
